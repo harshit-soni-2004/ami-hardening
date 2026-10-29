@@ -1,0 +1,10 @@
+*.pem
+*.key
+*.id_rsa
+*.csv
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.log
